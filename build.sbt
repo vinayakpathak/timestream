@@ -1,6 +1,6 @@
 name := "timestream"
 version := "0.0.1"
-scalaVersion := "2.11.8"
+scalaVersion := "2.12.6"
 
 //fork in run := true
 
